@@ -1,6 +1,5 @@
 # comp-51-jayden
 
-yo yo yo 
-yoyoyo
+Welcome to Jayden's cpp files
 
-3/18/2025
+
